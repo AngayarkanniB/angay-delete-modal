@@ -1,12 +1,12 @@
 {
   "name": "@angay/delete-modal",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A reusable Angular delete confirmation modal component library.",
   "author": "Angayarkanni Balasubramanian",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angay/delete-modal.git"
+    "url": "https://github.com/AngayarkanniB/angay-delete-modal.git"
   },
   "keywords": [
     "angular",
